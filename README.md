@@ -15,4 +15,3 @@ Enter your birth year: 1995
 Enter the year in which you want to know your age: 2030
 Alex you will become 35 Years old
 ```
->>>>>>> 8cd8d2c (Improve README formatting)
