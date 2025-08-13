@@ -9,7 +9,10 @@ AgeFinder is a simple Python program that calculates your age in any given year 
 4. The program tells you how old you were, are, or will be in that year.
 
 ## Example
-What is your name: Alex\n
-Enter your birth year: 1995\n
-Enter the year in which you want to know your age: 2030\n
-Alex you will become 35 Years old\n
+```
+What is your name: Alex
+Enter your birth year: 1995
+Enter the year in which you want to know your age: 2030
+Alex you will become 35 Years old
+```
+>>>>>>> 8cd8d2c (Improve README formatting)
